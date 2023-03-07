@@ -27,7 +27,6 @@ public class MediaContext
         Videos.Add(new Video() { Id = 2, Title = "Coding Tutorial 2"});
         Videos.Add(new Video() { Id = 3, Title = "Coding Tutorial 3"});
         Videos.Add(new Video() { Id = 4, Title = "Coding Tutorial 4"});
-        
     }
     
     
